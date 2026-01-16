@@ -7,7 +7,7 @@
 
 ## References and Resources
 
-1. 
+1. Google, Gemini 3 Flash, "What is EditText and example of its usage to add to a list", 2026-01-16
 
 ## Verbal Collaboration
 
