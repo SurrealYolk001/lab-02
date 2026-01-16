@@ -2,12 +2,12 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Syed Faiyaz`
+- **CCID:** `1779660`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+1. 
 
 ## Verbal Collaboration
 
